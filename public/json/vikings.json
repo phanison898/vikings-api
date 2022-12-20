@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ragnar lathbroke",
+        "age": 42,
+        "imageUrl": "http://localhost:5000/images/ragnar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "lagertha",
+        "age": 35,
+        "imageUrl": "http://localhost:5000/images/lagertha.jpg"
+    },
+    {
+        "id": 3,
+        "name": "bjorn ironside",
+        "age": 15,
+        "imageUrl": "http://localhost:5000/images/bjorn.jpg"
+    },
+    {
+        "id": 4,
+        "name": "athelstan",
+        "age": 12,
+        "imageUrl": "http://localhost:5000/images/athelstan.jpg"
+    },
+    {
+        "id": 5,
+        "name": "floki",
+        "age": 43,
+        "imageUrl": "http://localhost:5000/images/floki.jpg"
+    },
+    {
+        "id": 6,
+        "name": "rollo",
+        "age": 47,
+        "imageUrl": "http://localhost:5000/images/rollo.jpg"
+    }
+]
